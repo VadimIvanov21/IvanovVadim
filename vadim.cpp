@@ -1,5 +1,5 @@
 #include <iostream>
-#include "vadim13.h"
+#include "easy2.h"
 
 using namespace std;
 
